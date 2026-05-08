@@ -1,0 +1,43 @@
+# Python virtual environment — never push this
+backend/venv/
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment files
+.env
+*.env
+
+# Output files — contain real API data
+demand_forecasting/output/
+
+# Database files
+*.db
+*.sqlite
+
+# API Keys — keep these private!
+backend/config.py
+demand_forecasting/config.py
+
+# Node modules — never push this
+frontend/node_modules/
+node_modules/
+
+# Build files
+frontend/dist/
+frontend/.vite/
+build/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

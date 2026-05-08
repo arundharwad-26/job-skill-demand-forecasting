@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-04T12:04:53.392635",
+    "total_records": 48,
+    "skills_tracked": 12
+  },
+  "data": [
+    {
+      "forecast_date": "2026-05-11T12:04:53.158",
+      "predicted_demand": 64.5,
+      "lower_bound": 54.82,
+      "upper_bound": 74.17,
+      "skill": "AWS",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.158",
+      "predicted_demand": 64.5,
+      "lower_bound": 54.82,
+      "upper_bound": 74.17,
+      "skill": "AWS",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.158",
+      "predicted_demand": 64.5,
+      "lower_bound": 54.82,
+      "upper_bound": 74.17,
+      "skill": "AWS",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.158",
+      "predicted_demand": 64.5,
+      "lower_bound": 54.82,
+      "upper_bound": 74.17,
+      "skill": "AWS",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.170",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Azure",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.170",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Azure",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.170",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Azure",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.170",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Azure",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.181",
+      "predicted_demand": 63.75,
+      "lower_bound": 54.19,
+      "upper_bound": 73.31,
+      "skill": "Data Engineering",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.181",
+      "predicted_demand": 63.75,
+      "lower_bound": 54.19,
+      "upper_bound": 73.31,
+      "skill": "Data Engineering",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.181",
+      "predicted_demand": 63.75,
+      "lower_bound": 54.19,
+      "upper_bound": 73.31,
+      "skill": "Data Engineering",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.181",
+      "predicted_demand": 63.75,
+      "lower_bound": 54.19,
+      "upper_bound": 73.31,
+      "skill": "Data Engineering",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.194",
+      "predicted_demand": 61.5,
+      "lower_bound": 52.27,
+      "upper_bound": 70.72,
+      "skill": "Deep Learning",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.194",
+      "predicted_demand": 61.5,
+      "lower_bound": 52.27,
+      "upper_bound": 70.72,
+      "skill": "Deep Learning",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.194",
+      "predicted_demand": 61.5,
+      "lower_bound": 52.27,
+      "upper_bound": 70.72,
+      "skill": "Deep Learning",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.194",
+      "predicted_demand": 61.5,
+      "lower_bound": 52.27,
+      "upper_bound": 70.72,
+      "skill": "Deep Learning",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.210",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Docker",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.210",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Docker",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.210",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Docker",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.210",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Docker",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.220",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Kubernetes",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.220",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Kubernetes",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.220",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Kubernetes",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.220",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Kubernetes",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.227",
+      "predicted_demand": 62.25,
+      "lower_bound": 52.91,
+      "upper_bound": 71.59,
+      "skill": "Machine Learning",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.227",
+      "predicted_demand": 62.25,
+      "lower_bound": 52.91,
+      "upper_bound": 71.59,
+      "skill": "Machine Learning",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.227",
+      "predicted_demand": 62.25,
+      "lower_bound": 52.91,
+      "upper_bound": 71.59,
+      "skill": "Machine Learning",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.227",
+      "predicted_demand": 62.25,
+      "lower_bound": 52.91,
+      "upper_bound": 71.59,
+      "skill": "Machine Learning",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.242",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Power BI",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.242",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Power BI",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.242",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Power BI",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.242",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Power BI",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.252",
+      "predicted_demand": 61.5,
+      "lower_bound": 52.27,
+      "upper_bound": 70.72,
+      "skill": "Python",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.252",
+      "predicted_demand": 61.5,
+      "lower_bound": 52.27,
+      "upper_bound": 70.72,
+      "skill": "Python",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.252",
+      "predicted_demand": 61.5,
+      "lower_bound": 52.27,
+      "upper_bound": 70.72,
+      "skill": "Python",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.252",
+      "predicted_demand": 61.5,
+      "lower_bound": 52.27,
+      "upper_bound": 70.72,
+      "skill": "Python",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.263",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "React",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.263",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "React",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.263",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "React",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.263",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "React",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.273",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "SQL",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.273",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "SQL",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.273",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "SQL",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.273",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "SQL",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-11T12:04:53.281",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Tableau",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-18T12:04:53.281",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Tableau",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-05-25T12:04:53.281",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Tableau",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    },
+    {
+      "forecast_date": "2026-06-01T12:04:53.281",
+      "predicted_demand": 60.0,
+      "lower_bound": 51.0,
+      "upper_bound": 69.0,
+      "skill": "Tableau",
+      "method": "LinearRegression",
+      "demand_rank": 1
+    }
+  ]
+}

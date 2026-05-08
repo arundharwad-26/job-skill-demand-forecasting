@@ -1,0 +1,54 @@
+{
+  "feature_validation": {
+    "timestamp": "2026-05-04T12:04:31.143962",
+    "total_rows": 12,
+    "total_skills": 12,
+    "checks": {
+      "not_empty": true,
+      "required_columns": {
+        "passed": true,
+        "missing": []
+      },
+      "no_negative_demand": {
+        "passed": true,
+        "count": 0
+      }
+    },
+    "summary": "3/3 checks passed"
+  },
+  "forecast_validation": {
+    "timestamp": "2026-05-04T12:04:53.295342",
+    "forecast_rows": 48,
+    "skills_forecast": 12,
+    "checks": {
+      "no_negative_forecasts": {
+        "passed": true,
+        "count": 0
+      },
+      "valid_bounds": true
+    },
+    "top_5_skills": [
+      {
+        "skill": "AWS",
+        "predicted_demand": 64.5
+      },
+      {
+        "skill": "Data Engineering",
+        "predicted_demand": 63.75
+      },
+      {
+        "skill": "Machine Learning",
+        "predicted_demand": 62.25
+      },
+      {
+        "skill": "Deep Learning",
+        "predicted_demand": 61.5
+      },
+      {
+        "skill": "Python",
+        "predicted_demand": 61.5
+      }
+    ],
+    "summary": "2/2 checks passed"
+  }
+}
